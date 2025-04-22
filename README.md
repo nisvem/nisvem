@@ -10,7 +10,7 @@
 - 🧠 4+ years of frontend development experience  
 - 💡 Focused on performance, clean code and UI/UX
 - 🔁 Love building responsive, scalable interfaces with React + Tailwind
-- 🌍 Available for remote work across Europe
+- 🌍 Available for remote work across Europe and USA
 
 ### 🛠 Tech Stack
 
