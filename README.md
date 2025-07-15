@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Artem Bykov 👋</h1>
 <p align="center">
-  Frontend Developer (React, TypeScript) based in Spain 🇪🇸  
+  Full-stack Developer (React, Node.js) based in Spain 🇪🇸  
 </p>
 
 ---
 
 ### 💻 About me
 
-- 🧠 4+ years of frontend development experience  
+- 🧠 4+ years of full-stack development experience  
 - 💡 Focused on performance, clean code and UI/UX
-- 🔁 Love building responsive, scalable interfaces with React + Tailwind
+- 🔁 Love building responsive, scalable interfaces
 - 🌍 Available for remote work across Europe and USA
 
 ### 🛠 Tech Stack
